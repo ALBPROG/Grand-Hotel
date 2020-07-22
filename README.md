@@ -1,6 +1,6 @@
 # Grand-Hotel
 
-Link: https://albprog.github.io/Furniture-Store/
+Link: https://albprog.github.io/Grand-Hotel/
 
 Grand Hotel website template. I created this template on May 2020.
 
